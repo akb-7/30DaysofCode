@@ -1,8 +1,7 @@
 # 30DaysofCode
-<br>
-<p>This repository contains the solution to the daily question in the 30 days of code in Hackerrank.</p>
-I uploaded the solutions in
-  - C++
+This repository contains the solution to the daily question in the 30 days of code in Hackerrank.
+I uploaded the solutions in following languages
+  - Cpp
   - Python
   - Java
  
