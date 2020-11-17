@@ -2,6 +2,10 @@
 <br>
 <p>This repository contains the solution to the daily question in the 30 days of code in Hackerrank.</p>
 I uploaded the solutions in
+* Item 1
+* Item 2
+  * Sub Item 1
+  * Sub Item 2
 * C++
 * Python
 * Java
