@@ -36,6 +36,17 @@ class Solution:
         return head
     '''
     # this function passes all the test cases in the final submission
+    def removeDuplicates(self,head):
+        #Write your code here
+        if head==None:
+            return None
+        s = head 
+        while s.next:
+            if(s.data == s.next.data):
+                s.next = s.next.next
+            else:
+                s = s.next
+        return head
     
 mylist= Solution()
 T=int(input())
